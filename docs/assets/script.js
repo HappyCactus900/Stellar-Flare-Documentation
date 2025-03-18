@@ -1,5 +1,5 @@
 // Load the catalog data
-fetch('/docs/_data/catalog.json') // Update the path to your data file
+fetch('/docs/_data/catalog.csv') // Update the path to your data file
   .then(response => response.json())
   .then(data => {
     const tableBody = document.getElementById('catalogTable').getElementsByTagName('tbody')[0];
