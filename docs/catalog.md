@@ -10,13 +10,13 @@ Enter a TIC ID to filter the data:
     <tr>
       <th>TIC</th>
       <th>Af</th>
-      <th>Cal. Af</th>
-      <th>8 t</th>
-      <th>Cal. 8 t</th>
+      <th>Cal.Af</th>
+      <th>delta t</th>
+      <th>Cal.deltat</th>
       <th>Ef</th>
-      <th>Cal. Ef</th>
+      <th>Cal.Ef</th>
       <th>ED1/ED2</th>
-      <th>8 t1/8 t2</th>
+      <th>deltat1/deltat2</th>
       <th>tstart</th>
       <th>tpeak</th>
       <th>tend</th>
@@ -29,3 +29,4 @@ Enter a TIC ID to filter the data:
 </table>
 
 <script src="/docs/assets/script.js"></script>
+
