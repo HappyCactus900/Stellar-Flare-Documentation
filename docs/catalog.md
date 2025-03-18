@@ -1,5 +1,7 @@
 # Stellar Flare Catalog
 
+<script src="/docs/assets/script.js"></script>
+
 Enter a TIC ID to filter the data:
 
 <input type="text" id="ticInput" placeholder="Enter TIC ID">
@@ -28,5 +30,5 @@ Enter a TIC ID to filter the data:
   </tbody>
 </table>
 
-<script src="/docs/assets/script.js"></script>
+
 
