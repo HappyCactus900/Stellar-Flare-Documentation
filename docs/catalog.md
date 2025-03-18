@@ -28,4 +28,4 @@ Enter a TIC ID to filter the data:
   </tbody>
 </table>
 
-<script src="/my-docs/assets/script.js"></script>
+<script src="/docs/assets/script.js"></script>
